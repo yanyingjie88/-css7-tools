@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   timeFormat(time) {
     let hours, minutes, seconds;
     let intTime = Math.floor(time);
